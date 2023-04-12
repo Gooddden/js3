@@ -7,7 +7,7 @@ console.log(`введенное число`);
 
 for (let i=2 ; i < number ; i++ ){
 
-    if (nomber % i == 0) {
+    if (number % i == 0) {
         
         Prime_number = false;
         break;
